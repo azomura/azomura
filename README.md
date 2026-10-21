@@ -8,10 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/azomura/maxpy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-maxpy-dark.svg"><img src="assets/project-maxpy-light.svg" width="49%" alt="maxpy"></picture></a>&nbsp;<a href="https://github.com/azomura/azomura.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-azomura-github-io-dark.svg"><img src="assets/project-azomura-github-io-light.svg" width="49%" alt="azomura.github.io"></picture></a>
-
-<a href="https://github.com/azomura/ilnazik.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ilnazik-dev-dark.svg"><img src="assets/project-ilnazik-dev-light.svg" width="49%" alt="ilnazik.dev"></picture></a>&nbsp;<a href="https://github.com/azomura/azomura"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-azomura-dark.svg"><img src="assets/project-azomura-light.svg" width="49%" alt="azomura"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
