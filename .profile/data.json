@@ -1,10 +1,27 @@
 {
- "key": "52dd70d",
+ "key": "48a9796b",
  "stars": 0,
- "contributions": 11,
+ "contributions": 26,
  "repos": 4,
  "followers": 0,
- "languages": [],
+ "languages": [
+  [
+   "CSS",
+   8146
+  ],
+  [
+   "TypeScript",
+   3732
+  ],
+  [
+   "JavaScript",
+   1894
+  ],
+  [
+   "HTML",
+   619
+  ]
+ ],
  "days": [
   [
    {
@@ -97,7 +114,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 17,
     "day": 21,
     "today": true
    },
@@ -136,7 +153,7 @@
    "text": "",
    "fork": false,
    "stars": 0,
-   "language": null,
+   "language": "CSS",
    "topics": []
   },
   {
