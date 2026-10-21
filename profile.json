@@ -1,0 +1,284 @@
+{
+  "version": 1,
+  "login": "azomura",
+  "seed": "#C3CBF8",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "",
+    "subtitle": "I build web applications, APIs, microservices, and developer tools.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Russia, Nizhnekamsk"
+      },
+      {
+        "icon": "code",
+        "label": "TypeScript · Python · Rust · Go"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": []
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Languages",
+        "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:go",
+            "label": "Go"
+          },
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "brand:gnubash",
+            "label": "Bash"
+          },
+          {
+            "icon": "brand:dart",
+            "label": "Dart"
+          },
+          {
+            "icon": "brand:cplusplusbuilder",
+            "label": "C++"
+          }
+        ]
+      },
+      {
+        "title": "Tools & Environment",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:github",
+            "label": "Github"
+          },
+          {
+            "icon": "brand:archlinux",
+            "label": "Arch Linux"
+          },
+          {
+            "icon": "brand:zedindustries",
+            "label": "Zed Editor"
+          },
+          {
+            "icon": "brand:androidstudio",
+            "label": "Android Studio"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:uv",
+            "label": "UV"
+          },
+          {
+            "icon": "brand:ruff",
+            "label": "Ruff"
+          },
+          {
+            "icon": "brand:bun",
+            "label": "Bun"
+          }
+        ]
+      },
+      {
+        "title": "Frameworks",
+        "items": [
+          {
+            "icon": "brand:fastapi",
+            "label": "FastAPI"
+          },
+          {
+            "icon": "brand:flutter",
+            "label": "Flutter"
+          },
+          {
+            "icon": "brand:jetpackcompose",
+            "label": "Jetpack Compose"
+          },
+          {
+            "icon": "brand:sqlalchemy",
+            "label": "SQLAlchemy"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:tauri",
+            "label": "Tauri"
+          },
+          {
+            "icon": "brand:tailwindcss",
+            "label": "Tailwind CSS"
+          },
+          {
+            "icon": "brand:shadcnui",
+            "label": "shadcn/ui"
+          },
+          {
+            "icon": "brand:tanstack",
+            "label": "TanStack Query"
+          },
+          {
+            "icon": "brand:vite",
+            "label": "Vite"
+          },
+          {
+            "icon": "brand:axios",
+            "label": "Axios"
+          },
+          {
+            "icon": "brand:nextdotjs",
+            "label": "NextJS"
+          },
+          {
+            "icon": "brand:nestjs",
+            "label": "NestJS"
+          }
+        ]
+      },
+      {
+        "title": "Databases & DevOps",
+        "items": [
+          {
+            "icon": "brand:postgresql",
+            "label": "PostgreSQL"
+          },
+          {
+            "icon": "brand:redis",
+            "label": "Redis"
+          },
+          {
+            "icon": "brand:rabbitmq",
+            "label": "RabbitMQ"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "azomura.github.io",
+      "ilnazik.dev",
+      "azomura",
+      "maxpy"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/azomura "
+      },
+      {
+        "icon": "brand:vk",
+        "url": "https://vk.com/azomura"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/kitty_ilnazik"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/azomura0"
+      },
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/dev-kitty-ilnazik"
+      }
+    ],
+    "variant": "chip",
+    "fill": "brand",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://ilnazik.dev",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/azomura?tab=repositories",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}
