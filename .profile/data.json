@@ -1,6 +1,6 @@
 {
- "key": "171dd68a",
- "stars": 0,
+ "key": "369ec62a",
+ "stars": 1,
  "contributions": 26,
  "repos": 4,
  "followers": 0,
@@ -134,6 +134,15 @@
  "pins": [],
  "all": [
   {
+   "name": "ilnazik.dev",
+   "url": "https://github.com/azomura/ilnazik.dev",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "CSS",
+   "topics": []
+  },
+  {
    "name": "maxpy",
    "url": "https://github.com/azomura/maxpy",
    "text": "",
@@ -149,15 +158,6 @@
    "fork": false,
    "stars": 0,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "ilnazik.dev",
-   "url": "https://github.com/azomura/ilnazik.dev",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "CSS",
    "topics": []
   },
   {
