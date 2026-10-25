@@ -1,17 +1,17 @@
 {
- "key": "b773650e",
- "stars": 1,
- "contributions": 105,
+ "key": "36aa3cf1",
+ "stars": 2,
+ "contributions": 111,
  "repos": 4,
  "followers": 0,
  "languages": [
   [
    "TypeScript",
-   189020
+   202033
   ],
   [
    "CSS",
-   10690
+   11576
   ],
   [
    "JavaScript",
@@ -87,7 +87,7 @@
     "today": false
    },
    {
-    "c": 21,
+    "c": 27,
     "day": 23,
     "today": false
    },
@@ -127,6 +127,15 @@
    "topics": []
   },
   {
+   "name": "azomura",
+   "url": "https://github.com/azomura/azomura",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
    "name": "maxpy",
    "url": "https://github.com/azomura/maxpy",
    "text": "",
@@ -138,15 +147,6 @@
   {
    "name": "azomura.github.io",
    "url": "https://github.com/azomura/azomura.github.io",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "azomura",
-   "url": "https://github.com/azomura/azomura",
    "text": "",
    "fork": false,
    "stars": 0,
