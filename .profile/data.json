@@ -1,13 +1,17 @@
 {
- "key": "4bf009c4",
+ "key": "f5701efa",
  "stars": 2,
- "contributions": 255,
- "repos": 4,
+ "contributions": 318,
+ "repos": 5,
  "followers": 1,
  "languages": [
   [
    "TypeScript",
    319907
+  ],
+  [
+   "Rust",
+   133215
   ],
   [
    "CSS",
@@ -124,7 +128,7 @@
     "today": false
    },
    {
-    "c": 17,
+    "c": 80,
     "day": 20,
     "today": true
    },
@@ -154,6 +158,26 @@
    "stars": 1,
    "language": null,
    "topics": []
+  },
+  {
+   "name": "arcadia-framework",
+   "url": "https://github.com/azomura/arcadia-framework",
+   "text": "NestJS-inspired modular Rust backend framework with DI, HTTP, WebSockets, microservices, OpenAPI, testing, and customizable logging",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "axum",
+    "backend",
+    "backend-framework",
+    "crates-io",
+    "dependency-injection",
+    "graphql",
+    "http-server",
+    "microservices",
+    "modular-architecture",
+    "nestjs"
+   ]
   },
   {
    "name": "maxpy",
