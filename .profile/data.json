@@ -1,7 +1,7 @@
 {
- "key": "f5701efa",
+ "key": "cfe7e451",
  "stars": 2,
- "contributions": 318,
+ "contributions": 350,
  "repos": 5,
  "followers": 1,
  "languages": [
@@ -11,7 +11,7 @@
   ],
   [
    "Rust",
-   133215
+   181299
   ],
   [
    "CSS",
@@ -128,15 +128,19 @@
     "today": false
    },
    {
-    "c": 80,
+    "c": 106,
     "day": 20,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 6,
+    "day": 21,
+    "today": true
+   }
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 3
  },
  "pins": [],
